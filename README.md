@@ -15,6 +15,7 @@ Após concluir a instalação e configuração, você pode executar o projeto da
 
 Inicie o servidor de desenvolvimento: 
 <p>npm run dev</p>
+<hr>
 
 Abra o seu navegador e acesse http://localhost:5173/ para visualizar o projeto em execução.
 
