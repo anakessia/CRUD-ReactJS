@@ -1,8 +1,20 @@
-# React + Vite
+# CRUD ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Instalação
+Faça o clone do repositório do projeto:
+<p>git clone https://github.com/anakessia/CRUD-ReactJS.git</p>
 
-Currently, two official plugins are available:
+Navegue até o diretório do projeto:
+<p>cd CRUD-ReactJS</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instale as dependências do projeto:
+<p>npm install</p>
+
+## Executando o Projeto
+Após concluir a instalação e configuração, você pode executar o projeto da seguinte forma:
+
+Inicie o servidor de desenvolvimento: 
+<p>npm start</p>
+
+Abra o seu navegador e acesse http://localhost:5173/ para visualizar o projeto em execução.
+
