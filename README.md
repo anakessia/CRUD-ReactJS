@@ -2,7 +2,7 @@
 
 ## Instalação
 Faça o clone do repositório do projeto:
-<p>git clone https://github.com/anakessia/CRUD-ReactJS.git</p>
+<p>git clone https://github.com/anakessia/CRUD-ReactJS</p>
 
 Navegue até o diretório do projeto:
 <p>cd CRUD-ReactJS</p>
