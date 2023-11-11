@@ -2,19 +2,27 @@
 
 ## Instalação
 Faça o clone do repositório do projeto:
-<p>git clone https://github.com/anakessia/CRUD-ReactJS.git</p>
+```sh
+git clone https://github.com/anakessia/CRUD-ReactJS.git
+```
 
 Navegue até o diretório do projeto:
-<p>cd CRUD-ReactJS</p>
+```sh
+cd CRUD-ReactJS
+```
 
 ## Instale as dependências do projeto:
-<p>npm install</p>
+```sh
+npm install
+```
 
 ## Executando o Projeto
 Após concluir a instalação e configuração, você pode executar o projeto da seguinte forma:
 
 Inicie o servidor de desenvolvimento: 
-<p>npm run dev</p>
+```sh
+npm run dev
+```
 <hr>
 
 Abra o seu navegador e acesse http://localhost:5173/ para visualizar o projeto em execução.
