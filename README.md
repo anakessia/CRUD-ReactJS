@@ -1,4 +1,5 @@
 # CRUD ReactJS
+Este projeto foi desenvolvido com o objetivo de aprendizado em React.js, utilizando o Chakra UI para estilização. Não possui funcionalidades avançadas, sendo um CRUD básico para prática e experimentação.
 
 ## Instalação
 Faça o clone do repositório do projeto:
